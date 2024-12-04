@@ -1,0 +1,5 @@
+project_id = "gokul-443506"
+# attribute_condition   = "attribute.repository=='ia-mgcp/iagam-iac-studio'"
+// attribute = "attribute.repository/ia-mgcp/iagam-iac-studio"
+
+git_repo = 
